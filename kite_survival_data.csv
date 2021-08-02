@@ -1,0 +1,14 @@
+bird_ID,sex,winter_region,death_type,survival_days
+KITE04,F,pyrenees,natural,1053
+KITE08,F,italy,anthropogenic,631
+AUKI07,M,pyrenees,anthropogenic,1345
+AUKI19-B,M,italy,anthropogenic,850
+AUKI31-B,F,pyrenees,anthropogenic,471
+AUKI34-C,M,italy,natural,362
+AUKI86,F,pyrenees,natural,328
+AUKI87,M,pyrenees,anthropogenic,680
+AUKI88,F,iberia,natural,453
+AUKO21,F,iberia,natural,400
+AUKO24,F,iberia,natural,1060
+AUKO28,M,iberia,anthropogenic,705
+AUKO29,M,pyrenees,natural,747
