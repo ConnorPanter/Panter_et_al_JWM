@@ -1,0 +1,25 @@
+variable,description
+bird_ID,unique kite identifier
+sex,sex (male/female/unknown)
+age,"age (>1cy = older, <1cy = first)"
+distance_trav_km,"distance kite traveled between the start and end of the winter period, measured in km"
+std_dist_km,"standardised distance traveled between the start and end of the winter period, see Methods in text"
+95%_HR_km2,home range (km2) calculated using 95% utilization distribution kernel density estimators
+50%_core_km2,core areas (km2) calculated using 50% utilization distribution kernel density estimators
+%_urban_HR,percentage urban grid cells within each home range isopleth
+%_urban_core,percentage urban grid cells within each core areas isopleth
+%_closed_HR,percentage closed grid cells within each home range isopleth
+%_closed_core,percentage closed grid cells within each core areas isopleth
+%_open_HR,percentage open grid cells within each home range isopleth
+%_open_core,percentage open grid cells within each core areas isopleth
+mean_elev_HR_m,mean elevation throughout each home range isopleth
+mean_elev_core_m,mean elevation throughout each core areas isopleth
+elev_range_HR_km,elevation range throughout home range isopleth
+elev_range_core_km,elevation range throughout core areas isopleth
+prop_low_HR,percentage lowland cells within each home range isopleth
+prop_low_core,percentage lowland cells within each core areas isopleth
+region,winter region
+arrival_date,"arrival date relative to other kites (see Methods; early, normal and late)"
+winter_duration_days,winter duration in days
+gps_fixes,number of total winter GPS fixes/relocations
+winter,winter period (years)
